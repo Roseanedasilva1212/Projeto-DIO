@@ -22,6 +22,9 @@ Para gerar seu próprio eBook:
 3. Execute o script principal e siga as instruções para inserir suas preferências de conteúdo.
 4. A IA irá gerar o eBook e você poderá baixá-lo em formato PDF ou outro formato de sua escolha.
 
+##Link do Projeto 
+https://sway.cloud.microsoft/lF9OonDbo9lZoVVn?ref=Link&loc=mysways
+
 
 
 Projeto criado por Roseane.
